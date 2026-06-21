@@ -1,5 +1,3 @@
-Day 1 Notes
-
 ## 1. Introduction
 
 ### Topics Covered
