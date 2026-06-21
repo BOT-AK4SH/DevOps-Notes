@@ -1,4 +1,4 @@
-# DevOps Zero to Hero – Day 1 Notes
+Day 1 Notes
 
 ## 1. Introduction
 
