@@ -1,4 +1,4 @@
-# Day 3 Notes – Virtual Machines & Virtualization
+# Virtual Machines & Virtualization
 
 ---
 
