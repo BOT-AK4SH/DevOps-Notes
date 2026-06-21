@@ -389,7 +389,7 @@ Create the VM.
 
 ---
 
-## Quick Revision (1 Minute)
+## Quick Revision 
 
 * VM on AWS = EC2 Instance.
 * Create VMs using AWS Console or Azure Portal.
