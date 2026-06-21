@@ -1,4 +1,4 @@
-# DevOps Day 3 Notes: Roles in an Organization, SDLC & Jira
+# DevOps Day 2 Bonus Notes: Roles in an Organization, SDLC & Jira
 
 ---
 
