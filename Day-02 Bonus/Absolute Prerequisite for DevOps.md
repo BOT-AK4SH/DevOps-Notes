@@ -1,4 +1,4 @@
-# Day 2 Bonus Notes: Roles in an Organization, SDLC & Jira
+# Roles in an Organization, SDLC & Jira
 
 ---
 
