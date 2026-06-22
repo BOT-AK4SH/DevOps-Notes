@@ -1,4 +1,4 @@
-## Connecting to AWS EC2 & Automating Virtual Machine Creation
+# Connecting to AWS EC2 & Automating Virtual Machine Creation
 
 ---
 
